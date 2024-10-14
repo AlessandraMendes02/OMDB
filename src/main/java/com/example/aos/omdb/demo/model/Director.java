@@ -15,6 +15,7 @@ import lombok.Data;
 @Entity
 @Data
 public class Director {
+
     
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
